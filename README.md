@@ -1,5 +1,7 @@
-React Todolist
-Demo : https://laska-adief.github.io/react-todolist/
+React Todolist <br>
+Demo <br>
+Github Pages : https://laska-adief.github.io/react-todolist/ <br>
+Netlify : https://la-react-todolist.netlify.app/ 
 
 
 
