@@ -1,0 +1,36 @@
+.TodoInput {
+  width: 100%;
+  /* background-color: antiquewhite; */
+}
+.TodoInput input {
+  width: 60%;
+  padding: 0.5rem 0.5rem;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  outline: none;
+  border: 2px solid #009dae;
+}
+.TodoInput button {
+  padding: 0.5rem 0.3rem;
+  background-color: #009dae;
+  color: white;
+  outline: none;
+  border: 2px solid #009dae;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.TodoInput button:hover {
+  background-color: #009daeaf;
+}
+@media (min-width: 768px) {
+  .TodoInput input {
+    width: 70%;
+    padding: 0.8rem 0.5rem;
+  }
+  .TodoInput button {
+    padding: 0.8rem 0.8rem;
+  }
+}

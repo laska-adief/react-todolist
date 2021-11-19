@@ -1,0 +1,9 @@
+.TodoItems {
+  padding: 1rem 0.5rem;
+  text-align: left;
+}
+
+.AddTodo {
+  color: red;
+  text-align: center;
+}
